@@ -1,1 +1,1 @@
-# TI2_Ex2
+# TI2 - Exercício 2
